@@ -2,7 +2,7 @@
     </h1>
     <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-                src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20AI%20|%20DataScience%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+                src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
     </p>
     <hr />
     <h4 align="center">I am an Undergraduate pursuing B.Tech. in CSE. I like to Code, Design, Innovate and Experiment. I
